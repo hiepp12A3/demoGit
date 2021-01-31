@@ -9,5 +9,9 @@
 <h4>them nua2</h4>
 
 <h4>them nua4</h4>
+<<<<<<< HEAD
 
 <h4>them nua6</h4>
+=======
+<h4>them nua5</h4>
+>>>>>>> da50b133ce6914d853d8ed486a8a420767cd0d7f
